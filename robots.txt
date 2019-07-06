@@ -1,1 +1,1 @@
-Sitemap: /sitemap.xml
+Sitemap: https://albertokjian.github.io/sitemap.xml
